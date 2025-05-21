@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\PARKUNGJUNG\C-Tutorial\2025-03-10\Cat &amp;&amp; Soup ver.2.c">
+    <ClCompile Include="Cat &amp;&amp; Soup ver2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
